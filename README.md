@@ -1,2 +1,4 @@
 # kharat-tourism-site
-A responsive tourism landing page for Kharat Tourism, showcasing a 5 day hill station tour across Maharashtra. Built using HTML and CSS.
+A responsive and visually appealing tourism landing page for Kharat Tourism, built with HTML and CSS.
+It features a detailed 5 day itinerary covering scenic hill stations in Maharashtra like Mahabaleshwar, Lonavala, and Matheran.
+Includes a swipeable layout, booking CTA, and traveler reviews for an immersive user experience.
